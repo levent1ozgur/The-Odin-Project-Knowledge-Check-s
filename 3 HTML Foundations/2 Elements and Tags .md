@@ -1,6 +1,6 @@
 1.  HTML tag nedir? 
 
-HTML tag, web sayfalarını oluşturmak için kullanılan bir HTML öğesi veya etiketidir. Etiket, bir HTML belgesindeki bir öğenin başlangıcını ve sonunu tanımlar. Örneğin, <h1> ve </h1> etiketleri, bir HTML belgesindeki bir başlık öğesinin başlangıcını ve sonunu tanımlar.
+HTML tag, web sayfalarını oluşturmak için kullanılan bir HTML öğesi veya etiketidir. Etiket, bir HTML belgesindeki bir öğenin başlangıcını ve sonunu tanımlar. Örneğin, <"h1"> ve <"/h1"> etiketleri, bir HTML belgesindeki bir başlık öğesinin başlangıcını ve sonunu tanımlar.
     
 2.  Bir HTML öğesinin üç bölümü nelerdir? 
 
