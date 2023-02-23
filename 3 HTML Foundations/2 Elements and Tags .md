@@ -7,6 +7,6 @@ HTML tag, web sayfalarını oluşturmak için kullanılan bir HTML öğesi veya 
 Bir HTML öğesi üç parçadan oluşur: açılış etiketi, içerik ve kapanış etiketi. Açılış etiketi, öğenin başlangıcını tanımlar ve genellikle <etiket adı> şeklindedir. İçerik, öğenin içindeki metni veya diğer HTML öğelerini temsil eder. Kapanış etiketi, öğenin sonunu tanımlar ve genellikle </etiket adı> şeklindedir. Örneğin, bir paragraf öğesi şöyle görünebilir:
     
 
-<p>Bu bir paragraf öğesidir.</p>
+<"p">Bu bir paragraf öğesidir.<"/p">
 
-Bu örnekte, <p> açılış etiketi, "Bu bir paragraf öğesidir." içeriği ve </p> kapanış etiketi bulunur.
+Bu örnekte, <"p"> açılış etiketi, "Bu bir paragraf öğesidir." içeriği ve <"/p"> kapanış etiketi bulunur.
