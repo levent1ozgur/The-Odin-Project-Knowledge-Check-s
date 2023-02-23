@@ -52,6 +52,6 @@
     <!-- Bu bir yorumdur. -->
     ```
     
-9.  <strong> ve <b> veya <em> ve <i> etiketleri arasındaki anlamsal fark nedir ve ne zaman kullanılır?
+9.  ``<strong>`` ve ``<b>`` veya ``<em>`` ve ``<i>`` etiketleri arasındaki anlamsal fark nedir ve ne zaman kullanılır?
     
-    <strong> ve <em>, vurgulamanın anlamını taşıyan anlamsal etiketlerdir. <b> ve <i>, metnin görünümünü değiştiren stil etiketleridir. Bu nedenle, <strong> ve <em> genellikle tercih edilen etiketlerdir, çünkü bu etiketlerin kullanımı, sayfadaki metnin anlamlı bir şekilde vurgulanmasına yardımcı olur. <b> ve <i>, ancak metnin görünümünü değiştirmek istediğiniz durumlarda kullanılmalıdır.
+    ``<strong> ``ve ``<em>``, vurgulamanın anlamını taşıyan anlamsal etiketlerdir. ``<b>`` ve ``<i>``, metnin görünümünü değiştiren stil etiketleridir. Bu nedenle, ``<strong>`` ve ``<em>`` genellikle tercih edilen etiketlerdir, çünkü bu etiketlerin kullanımı, sayfadaki metnin anlamlı bir şekilde vurgulanmasına yardımcı olur. ``<b>`` ve ``<i>``, ancak metnin görünümünü değiştirmek istediğiniz durumlarda kullanılmalıdır.
