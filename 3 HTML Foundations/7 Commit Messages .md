@@ -1,4 +1,4 @@
- 1. What are two benefits of having well-written commit messages and a good commit history?
+# 1. What are two benefits of having well-written commit messages and a good commit history?
  
  İyi yazılmış commit mesajları ve iyi bir commit geçmişine sahip olmanın iki faydası şunlardır:
     
@@ -6,7 +6,7 @@
     
   b. Hata ayıklamayı kolaylaştırır: İyi yazılmış commit mesajları ve iyi bir commit geçmişi, hata ayıklama sürecini kolaylaştırır. Bu sayede, geçmişte yapılan değişikliklerin ne zaman ve neden yapıldığına dair bilgi sahibi olunabilir. Bu da hataları tespit etmeyi ve düzeltmeyi kolaylaştırır.
     
-2.  How many characters should the subject line of your commit message be?
+# 2.  How many characters should the subject line of your commit message be?
 
 
 Commit mesajlarının konu satırı, ideal olarak 50 karakteri geçmemelidir. Bu, okunabilirliği artırır ve mesajın bir bakışta anlaşılmasını sağlar. Ancak, konu satırı mutlaka kısa olmak zorunda değildir. Önemli bilgiyi iletebilecek kadar uzun olması gereklidir, ancak uzun bir açıklama konu satırından sonra yazılabilir. Ayrıca, konu satırı büyük harflerle yazılmalı ve nokta kullanılmamalıdır.
